@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Joshiii/Documents/GitHub/sunwoomk.github.io/Capstone/Packages
-m_EditorVersion: 2021.3.21f1 (1b156197d683)
+m_EditorVersion: 2021.3.22f1 (b6c551784ba3)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.0.1
   testable: 0
