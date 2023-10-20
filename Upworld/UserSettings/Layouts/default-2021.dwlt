@@ -20,10 +20,14 @@ MonoBehaviour:
     height: 989
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Game
 =======
   m_Title: Project
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+  m_Title: Scene
+>>>>>>> parent of d775f520 (2023-10-20)
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -53,10 +57,14 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 116
 =======
   controlID: 18
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+  controlID: 29
+>>>>>>> parent of d775f520 (2023-10-20)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -411,10 +419,16 @@ MonoBehaviour:
     m_ExpandedIDs: 0000000072610000746100007661000000ca9a3b
 =======
     scrollPos: {x: 0, y: 279}
+<<<<<<< HEAD
     m_SelectedIDs: 04620000
     m_LastClickedID: 25092
     m_ExpandedIDs: 000000007461000076610000786100007a610000e061000000ca9a3bffffff7f
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+    m_SelectedIDs: 0c5e0000
+    m_LastClickedID: 24076
+    m_ExpandedIDs: 00000000265d0000285d00002a5d00002c5d00008a5d0000985d000000ca9a3bffffff7f
+>>>>>>> parent of d775f520 (2023-10-20)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -443,10 +457,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000072610000746100007661000078610000
 =======
     m_ExpandedIDs: 000000007461000076610000786100007a610000
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+    m_ExpandedIDs: 00000000265d0000285d00002a5d00002c5d0000
+>>>>>>> parent of d775f520 (2023-10-20)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,6 +594,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
@@ -583,6 +602,11 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: d8f7ffff
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+      m_SelectedIDs: 00f6ffff
+      m_LastClickedID: -2560
+      m_ExpandedIDs: 36fbffff
+>>>>>>> parent of d775f520 (2023-10-20)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -866,6 +890,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.27747846, y: -79.28037, z: 67.73344}
     speed: 2
     m_Value: {x: -0.27747846, y: -79.28037, z: 67.73344}
@@ -874,6 +899,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 9.449766, y: 9.192994, z: -9.005993}
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+    m_Target: {x: 7.112323, y: 7.647828, z: -7.680577}
+    speed: 2
+    m_Value: {x: 7.112323, y: 7.647828, z: -7.680577}
+>>>>>>> parent of d775f520 (2023-10-20)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -921,6 +951,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.33760944, y: -0.010737823, z: 0.0038501837, w: -0.9412236}
     speed: 2
     m_Value: {x: -0.33760738, y: -0.010737758, z: 0.0038501602, w: -0.9412179}
@@ -930,13 +961,20 @@ MonoBehaviour:
     m_Value: 171.80258
 =======
     m_Target: {x: -0.029763093, y: 0.8840635, z: -0.4629503, w: -0.056838576}
+=======
+    m_Target: {x: -0.040684287, y: 0.8656847, z: -0.49381763, w: -0.07132363}
+>>>>>>> parent of d775f520 (2023-10-20)
     speed: 2
-    m_Value: {x: -0.029068522, y: 0.88414437, z: -0.46299267, w: -0.055512205}
+    m_Value: {x: -0.040684287, y: 0.8656847, z: -0.49381763, w: -0.07132363}
   m_Size:
-    m_Target: 5.9802675
+    m_Target: 6.69026
     speed: 2
+<<<<<<< HEAD
     m_Value: 6.26206
 >>>>>>> d775f520be7299f3279d190c0cf0afb2c666b947
+=======
+    m_Value: 6.4021626
+>>>>>>> parent of d775f520 (2023-10-20)
   m_Ortho:
     m_Target: 0
     speed: 2

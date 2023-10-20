@@ -386,7 +386,6 @@
 "Assets/Script/MainCamera_Action.cs"
 "Assets/Script/PlayerControl.cs"
 "Assets/Script/Test.cs"
-"Assets/TestPlayer.cs"
 -langversion:9.0
 
 /deterministic
