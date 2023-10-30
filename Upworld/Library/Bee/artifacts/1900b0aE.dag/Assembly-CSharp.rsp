@@ -384,6 +384,7 @@
 "Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs"
 "Assets/Free_Rocks/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs"
 "Assets/Script/MainCamera_Action.cs"
+"Assets/Script/MovingStreetcar.cs"
 "Assets/Script/PlayerControl.cs"
 "Assets/TestPlayer.cs"
 -langversion:9.0
