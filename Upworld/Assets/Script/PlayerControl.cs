@@ -12,14 +12,14 @@ public class PlayerControl : MonoBehaviour
 
     private bool isGround = true;
 
-    Rigidbody body;
+    Rigidbody rigid;
 
     float h, v;
 
     // Start is called before the first frame update
     void Start()
     {
-        body = GetComponent<Rigidbody>();
+        rigid = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -53,7 +53,7 @@ public class PlayerControl : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space) && isGround)
         {
-            body.AddForce(Vector3.up * JumpForce, ForceMode.Impulse);
+            rigid.AddForce(Vector3.up * JumpForce, ForceMode.Impulse);
 
             isGround = false;
         }

@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 16472500}
   m_Layer: 0
   m_Name: Lava
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 29927583}
   m_Layer: 0
   m_Name: Lava (20)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 70595851}
   m_Layer: 0
   m_Name: Lava (5)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -717,6 +717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -778,7 +782,7 @@ GameObject:
   - component: {fileID: 181554179}
   m_Layer: 0
   m_Name: Lava (9)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1231,7 +1235,7 @@ GameObject:
   - component: {fileID: 284928242}
   m_Layer: 0
   m_Name: Lava (14)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1343,7 +1347,7 @@ GameObject:
   - component: {fileID: 304658917}
   m_Layer: 0
   m_Name: Lava (12)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1568,6 +1572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boat_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 155076, guid: c2b0699f327232848b46acc7f136bce5, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 448262, guid: c2b0699f327232848b46acc7f136bce5, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -1737,6 +1745,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Industrial Train Dr14 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -1813,7 +1825,7 @@ GameObject:
   - component: {fileID: 471849176}
   m_Layer: 0
   m_Name: Lava (6)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1921,6 +1933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_WL
       objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1982,7 +1998,7 @@ GameObject:
   - component: {fileID: 495470189}
   m_Layer: 0
   m_Name: Lava (3)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2426,6 +2442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_MF
       objectReference: {fileID: 0}
+    - target: {fileID: 502325286767221237, guid: d9c8355275cc958409b1942b5a7602ab, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 987219069176677199, guid: d9c8355275cc958409b1942b5a7602ab, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -2487,6 +2507,10 @@ PrefabInstance:
     - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_Name
       value: Patio_table_unity (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
@@ -2661,6 +2685,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -2982,6 +3010,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bed
       objectReference: {fileID: 0}
+    - target: {fileID: 721045016804959642, guid: e44e3122cb7192042b96792e967c285b, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e44e3122cb7192042b96792e967c285b, type: 3}
 --- !u!1 &711236409 stripped
@@ -3032,7 +3064,7 @@ GameObject:
   - component: {fileID: 734262343}
   m_Layer: 0
   m_Name: Lava (11)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3140,6 +3172,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -3196,6 +3232,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 0021dc7ae6ca2cb4bb44c107245b122f, type: 3}
       propertyPath: m_Name
       value: House1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0021dc7ae6ca2cb4bb44c107245b122f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0021dc7ae6ca2cb4bb44c107245b122f, type: 3}
       propertyPath: m_RootOrder
@@ -3483,6 +3523,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3541,7 +3585,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820710193}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd7a1886c1769049a496155e6e7522d, type: 3}
   m_Name: 
@@ -3563,7 +3607,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 112
+  m_Constraints: 80
   m_CollisionDetection: 0
 --- !u!65 &820710198
 BoxCollider:
@@ -3593,7 +3637,7 @@ GameObject:
   - component: {fileID: 839427662}
   m_Layer: 0
   m_Name: Lava (21)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3823,7 +3867,7 @@ GameObject:
   - component: {fileID: 929848784}
   m_Layer: 0
   m_Name: Lava (23)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4029,6 +4073,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+      propertyPath: Speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -4324,7 +4372,7 @@ GameObject:
   - component: {fileID: 1060901776}
   m_Layer: 0
   m_Name: Lava (17)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4432,6 +4480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Industrial Train Dr14
       objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -4489,6 +4541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boat_1
       objectReference: {fileID: 0}
+    - target: {fileID: 155076, guid: c2b0699f327232848b46acc7f136bce5, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 448262, guid: c2b0699f327232848b46acc7f136bce5, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -4545,6 +4601,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -4719,7 +4779,7 @@ GameObject:
   - component: {fileID: 1215430147}
   m_Layer: 0
   m_Name: Lava (18)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4831,7 +4891,7 @@ GameObject:
   - component: {fileID: 1216529843}
   m_Layer: 0
   m_Name: Lava (4)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5116,7 +5176,7 @@ GameObject:
   - component: {fileID: 1325687051}
   m_Layer: 0
   m_Name: Lava (13)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5224,6 +5284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -5280,6 +5344,10 @@ PrefabInstance:
     - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_Name
       value: Industrial Train Dr14 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
@@ -5342,6 +5410,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -5466,7 +5538,7 @@ GameObject:
   - component: {fileID: 1375935476}
   m_Layer: 0
   m_Name: Lava (1)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5695,7 +5767,7 @@ GameObject:
   - component: {fileID: 1411321678}
   m_Layer: 0
   m_Name: Lava (19)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5807,7 +5879,7 @@ GameObject:
   - component: {fileID: 1463668219}
   m_Layer: 0
   m_Name: Lava (15)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5919,7 +5991,7 @@ GameObject:
   - component: {fileID: 1566716710}
   m_Layer: 0
   m_Name: Lava (8)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6139,6 +6211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_WL (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -6317,7 +6393,7 @@ GameObject:
   - component: {fileID: 1722973680}
   m_Layer: 0
   m_Name: Lava (10)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6429,7 +6505,7 @@ GameObject:
   - component: {fileID: 1773640972}
   m_Layer: 0
   m_Name: Lava (7)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7039,7 +7115,7 @@ GameObject:
   - component: {fileID: 1986573162}
   m_Layer: 0
   m_Name: Lava (24)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7264,6 +7340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -7325,7 +7405,7 @@ GameObject:
   - component: {fileID: 2079641775}
   m_Layer: 0
   m_Name: Lava (16)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7437,7 +7517,7 @@ GameObject:
   - component: {fileID: 2113675718}
   m_Layer: 0
   m_Name: Lava (22)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7549,7 +7629,7 @@ GameObject:
   - component: {fileID: 2142497899}
   m_Layer: 0
   m_Name: Lava (2)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
