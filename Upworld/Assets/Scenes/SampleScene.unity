@@ -7860,7 +7860,7 @@ MonoBehaviour:
   Target: {fileID: 820710193}
   xmove: 0
   ymove: 0
-  distance: 6
+  distance: 5
 --- !u!1001 &968308083
 PrefabInstance:
   m_ObjectHideFlags: 0
