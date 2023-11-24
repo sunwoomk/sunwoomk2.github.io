@@ -8,31 +8,30 @@ public class MainCamera_Action : MonoBehaviour
 
     public float xmove = 0;
     public float ymove = 0;
+
     public float distance = 10;
+    public float x;
 
-    //public float offsetX = 0.0f;
-    //public float offsetY = 10.0f;
-    //public float offsetZ = -10.0f;
+    
 
-    //public float CameraSpeed = 10.0f;
-    //Vector3 TargetPos;
-
-    void FixedUpdate()
+    void Update()
     {
-        /*
-        TargetPos = new Vector3(
-            Target.transform.position.x + offsetX,
-            Target.transform.position.y + offsetY,
-            Target.transform.position.z + offsetZ
-            );
+        Vector3 camAngle = this.transform.rotation.eulerAngles;
+        Vector2 mouseDelta = new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"));
+        xmove += Input.GetAxis("Mouse X") * Time.deltaTime;
+        ymove -= Input.GetAxis("Mouse Y") * Time.deltaTime;
+        x = camAngle.x - mouseDelta.y;
 
-        transform.position = Vector3.Lerp(transform.position, TargetPos, Time.deltaTime * CameraSpeed);
+        if (x < 180f)
+        {
+            x = Mathf.Clamp(x, -1f, 70f);
+        }
+        else
+        {
+            x = Mathf.Clamp(x, 335f, 361f);
+        }
+        transform.rotation = Quaternion.Euler(x, (camAngle.y+ mouseDelta.x), camAngle.z);
 
-        */
-
-        xmove += Input.GetAxis("Mouse X");
-        ymove -= Input.GetAxis("Mouse Y");
-        transform.rotation = Quaternion.Euler(ymove * 30, xmove * 30, 0);
         Vector3 reverseDistance = new Vector3(0.0f, 0.0f, distance);
         transform.position = Target.transform.position - transform.rotation * reverseDistance;
     }

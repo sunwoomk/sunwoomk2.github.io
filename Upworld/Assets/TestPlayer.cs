@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class TestPlayer : MonoBehaviour
 {
+    public AudioClip walkSound;
+    public AudioClip runSound;
+    public AudioSource audioSource;
+    public GameObject cam;
 
+    public GameObject child;
     public float Speed = 5.0f;
     public float fast_Speed = 10.0f;
 
@@ -12,7 +17,7 @@ public class TestPlayer : MonoBehaviour
 
     public float JumpForce = 5.0f;
 
-    private bool isGround = true;
+    public bool isGround = true;
 
     float h, v;
 
@@ -30,6 +35,9 @@ public class TestPlayer : MonoBehaviour
     {
         rigid = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
+        audioSource = this.gameObject.GetComponent<AudioSource>();
+        audioSource.loop = true;
+        child = gameObject.transform.GetChild(0).gameObject;
         JumpForce = 6.0f;
     }
 
@@ -55,7 +63,15 @@ public class TestPlayer : MonoBehaviour
             h = Input.GetAxis("Horizontal");
             v = Input.GetAxis("Vertical");
 
-            Vector3 dir = new Vector3(h, 0, v).normalized;
+            Vector3 dir = new Vector3(h, 0, v);
+
+            Vector3 lookForward = new Vector3(cam.transform.forward.x, 0f, cam.transform.forward.z).normalized;
+            Vector3 lookRight = new Vector3(cam.transform.right.x, 0f, cam.transform.right.z).normalized;
+            
+            Vector3 camDir = lookForward * dir.z + lookRight * dir.x;
+            this.transform.forward = camDir;
+
+
 
 
             if (fastRun == true)
@@ -64,8 +80,12 @@ public class TestPlayer : MonoBehaviour
                 animator.SetBool("FastRun", true);
                 if (!(h == 0 && v == 0))
                 {
-                    transform.position += dir * fast_Speed * Time.deltaTime;
-                    transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.LookRotation(dir), Time.deltaTime * rotateSpeed);
+                    transform.position += camDir.normalized * fast_Speed * Time.deltaTime;
+                    if (audioSource.clip != runSound && isGround == true)
+                    {
+                        audioSource.clip = runSound;
+                        audioSource.Play();
+                    }
                 }
             }
             else if (fastRun == false)
@@ -75,11 +95,17 @@ public class TestPlayer : MonoBehaviour
                 animator.SetBool("FastRun", false);
                 if (!(h == 0 && v == 0))
                 {
-                    transform.position += dir * Speed * Time.deltaTime;
-                    transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.LookRotation(dir), Time.deltaTime * rotateSpeed);
+                    transform.position += camDir * Speed * Time.deltaTime;
+                    if (audioSource.clip != walkSound && isGround == true)
+                    {
+                        audioSource.clip = walkSound;
+                        audioSource.Play();
+                    }
+                    
+
                 }
             }
-
+            
 
         }
         else if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.D))
@@ -87,6 +113,13 @@ public class TestPlayer : MonoBehaviour
             Debug.Log("이동키에서 손 뗌");
             animator.SetBool("Run", false);
             animator.SetBool("FastRun", false);
+            audioSource.Stop();
+            audioSource.clip = null;
+        }
+        if (isGround == false)
+        {
+            audioSource.Stop();
+            audioSource.clip = null;
         }
     }
     void FastRunCheck()
@@ -115,22 +148,25 @@ public class TestPlayer : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter(Collision collision)
+    
+
+    /*private void OnTriggerEnter(Collider other)
     {
-        if (collision.gameObject.tag == "Ground")
+        if (other.gameObject.tag == "Ground")
         {
             isGround = true;
             animator.SetBool("Jump", false);
         }
     }
-    private void OnCollisionExit(Collision collision)
+
+    private void OnTriggerExit(Collider other)
     {
-        if (collision.gameObject.tag == "Ground")
+        if (other.gameObject.tag == "Ground")
         {
             isGround = false;
             animator.SetBool("Jump", true);
         }
-    }
+    }*/
 
     private void Skill()
     {

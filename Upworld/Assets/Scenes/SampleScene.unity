@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fotel2
       objectReference: {fileID: 0}
+    - target: {fileID: 3458046819338091022, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
 --- !u!4 &7285535 stripped
@@ -666,6 +670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Books_35
       objectReference: {fileID: 0}
+    - target: {fileID: 1315614067264400, guid: bae62b4c52157a5458cd20065bea1c1b, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4168153895152428, guid: bae62b4c52157a5458cd20065bea1c1b, type: 3}
       propertyPath: m_RootOrder
       value: 67
@@ -920,7 +928,7 @@ GameObject:
   - component: {fileID: 57071278}
   m_Layer: 0
   m_Name: Chess (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -993,6 +1001,10 @@ PrefabInstance:
     - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_Name
       value: Industrial Train Dr14 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
@@ -1168,6 +1180,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: keypad
       objectReference: {fileID: 0}
+    - target: {fileID: 1263456840087316, guid: 769d0371e7869b74db5b2dd0139d5279, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4099471975347110, guid: 769d0371e7869b74db5b2dd0139d5279, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -1286,6 +1302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DoubleSeat
       objectReference: {fileID: 0}
+    - target: {fileID: 920908881386834159, guid: 2c59b54db7aeb3d438ea1c0bf9694519, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c59b54db7aeb3d438ea1c0bf9694519, type: 3}
 --- !u!1001 &106120000
@@ -1369,6 +1389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 162
@@ -1434,6 +1458,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 7b5f2f9ea19c74c659ab8ac969280fb2, type: 3}
       propertyPath: m_Name
       value: rock2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 7b5f2f9ea19c74c659ab8ac969280fb2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b5f2f9ea19c74c659ab8ac969280fb2, type: 3}
       propertyPath: m_RootOrder
@@ -1566,6 +1594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 202
@@ -1627,6 +1659,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 164
@@ -1687,6 +1723,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: da4eeef492c0d1842963d6576330682d, type: 3}
       propertyPath: m_Name
       value: Cherry (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: da4eeef492c0d1842963d6576330682d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: da4eeef492c0d1842963d6576330682d, type: 3}
       propertyPath: m_RootOrder
@@ -1781,6 +1821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BookOpen_03
       objectReference: {fileID: 0}
+    - target: {fileID: 1236452791816066, guid: f3e273b40aec9094ba1905b2361ac36d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4978405505863672, guid: f3e273b40aec9094ba1905b2361ac36d, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -1855,6 +1899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 204
@@ -1915,6 +1963,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -2096,6 +2148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!1001 &169820260
@@ -2180,6 +2236,10 @@ PrefabInstance:
     - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_Name
       value: Patio_table_unity (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
@@ -2534,6 +2594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 129
@@ -2660,6 +2724,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ComPlaneV1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5525295603368428666, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
 --- !u!1 &209324756
@@ -2785,6 +2853,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BigCloset
       objectReference: {fileID: 0}
+    - target: {fileID: 8387792330663407722, guid: 9d4494b8b100519479f9699c5a7390a9, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 9163906065887161040, guid: 9d4494b8b100519479f9699c5a7390a9, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -2841,6 +2913,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -2917,6 +2993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 126
@@ -2986,6 +3066,10 @@ PrefabInstance:
     - target: {fileID: 1615781011240156, guid: 1dfa42bb9327d20498f83b251b090304, type: 3}
       propertyPath: m_Name
       value: recycleBin
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615781011240156, guid: 1dfa42bb9327d20498f83b251b090304, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4789874730325638, guid: 1dfa42bb9327d20498f83b251b090304, type: 3}
       propertyPath: m_RootOrder
@@ -3117,6 +3201,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -3290,6 +3378,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -3497,6 +3589,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 3seat4
       objectReference: {fileID: 0}
+    - target: {fileID: 6763273064909758130, guid: 245712dbd63f6f94e8467250c1caedd9, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 245712dbd63f6f94e8467250c1caedd9, type: 3}
 --- !u!1001 &273406044
@@ -3509,6 +3605,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -3580,6 +3680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 177
@@ -3640,6 +3744,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -4074,6 +4182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableCentre
       objectReference: {fileID: 0}
+    - target: {fileID: 1444422958097322, guid: 1e84a5c2113512345bfbace90f70fbe6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4640566498599878, guid: 1e84a5c2113512345bfbace90f70fbe6, type: 3}
       propertyPath: m_RootOrder
       value: 220
@@ -4143,6 +4255,10 @@ PrefabInstance:
     - target: {fileID: 8331614959572296107, guid: 089936f9127e76a4284e872db1978f2d, type: 3}
       propertyPath: m_Name
       value: MovingStreetcar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331614959572296107, guid: 089936f9127e76a4284e872db1978f2d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 8331614959572401547, guid: 089936f9127e76a4284e872db1978f2d, type: 3}
       propertyPath: m_RootOrder
@@ -4318,6 +4434,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BookOpen_04
       objectReference: {fileID: 0}
+    - target: {fileID: 1422868883321464, guid: 96b58236b5b44c848975ddea646f8ead, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4875696007443450, guid: 96b58236b5b44c848975ddea646f8ead, type: 3}
       propertyPath: m_RootOrder
       value: 64
@@ -4392,6 +4512,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 182
@@ -4457,6 +4581,10 @@ PrefabInstance:
     - target: {fileID: 2329903055860046251, guid: 41cf0c45f4ecbd0469567b5a28e21395, type: 3}
       propertyPath: m_Name
       value: Fotel3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2329903055860046251, guid: 41cf0c45f4ecbd0469567b5a28e21395, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 3107108606467818257, guid: 41cf0c45f4ecbd0469567b5a28e21395, type: 3}
       propertyPath: m_RootOrder
@@ -4559,6 +4687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RoundTable
       objectReference: {fileID: 0}
+    - target: {fileID: 7690519952026649423, guid: 6f43b2566a8dcad4aa8e75125eeda38e, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f43b2566a8dcad4aa8e75125eeda38e, type: 3}
 --- !u!4 &339049719 stripped
@@ -4576,6 +4708,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -4646,6 +4782,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -4821,6 +4961,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Industrial Train Dr14 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -4877,6 +5021,10 @@ PrefabInstance:
     - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_Name
       value: Keyboard (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
@@ -4961,6 +5109,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 7977e423937da9b48aac1866c67bb5be, type: 3}
       propertyPath: m_Name
       value: Watermelon (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 7977e423937da9b48aac1866c67bb5be, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7977e423937da9b48aac1866c67bb5be, type: 3}
       propertyPath: m_RootOrder
@@ -5055,6 +5207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 195
@@ -5131,6 +5287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 199
@@ -5191,6 +5351,10 @@ PrefabInstance:
     - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_Name
       value: Keyboard (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
@@ -5371,6 +5535,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: effca4239a120cd43912ea75656405c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lava: {fileID: 917849661}
+  player: {fileID: 820710202}
+  clearZone: {fileID: 1770434907}
+  lava_UI_Image: {fileID: 2011070935}
+  player_UI_Image: {fileID: 1891282765}
 --- !u!1001 &392749577
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5448,6 +5617,10 @@ PrefabInstance:
     - target: {fileID: 1235057659659040794, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
       propertyPath: m_Name
       value: DoubleSeat2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235057659659040794, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 1902804692336534176, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
       propertyPath: m_RootOrder
@@ -5563,6 +5736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: White Bishop
       objectReference: {fileID: 0}
+    - target: {fileID: 190264, guid: cd05c23b470229c44a8d53d6e86225f6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 439312, guid: cd05c23b470229c44a8d53d6e86225f6, type: 3}
       propertyPath: m_RootOrder
       value: 89
@@ -5634,6 +5811,10 @@ PrefabInstance:
     - target: {fileID: 1235057659659040794, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
       propertyPath: m_Name
       value: DoubleSeat2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235057659659040794, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 1902804692336534176, guid: d5026a2aaf9d8394a9e8b886d38dbfac, type: 3}
       propertyPath: m_RootOrder
@@ -5775,6 +5956,10 @@ PrefabInstance:
     - target: {fileID: 1371378461770868, guid: f19666d628662324191ece8d64784a6b, type: 3}
       propertyPath: m_Name
       value: Books_30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1371378461770868, guid: f19666d628662324191ece8d64784a6b, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4517925259988616, guid: f19666d628662324191ece8d64784a6b, type: 3}
       propertyPath: m_RootOrder
@@ -6034,6 +6219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_WL
       objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -6090,6 +6279,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 1 b (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
@@ -6533,6 +6726,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Couch
       objectReference: {fileID: 0}
+    - target: {fileID: 7624070237541074139, guid: 2d5da6ebed3d1dc4db41b66b5eac1997, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d5da6ebed3d1dc4db41b66b5eac1997, type: 3}
 --- !u!1001 &514339242
@@ -6545,6 +6742,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 1 b
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
@@ -6785,6 +6986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: black_laptop_ON
       objectReference: {fileID: 0}
+    - target: {fileID: 1911377244283058, guid: 42b4aeb41b0d51c4b8ee872cf9776209, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4005582913517524, guid: 42b4aeb41b0d51c4b8ee872cf9776209, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -6886,6 +7091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 3seat4
       objectReference: {fileID: 0}
+    - target: {fileID: 6763273064909758130, guid: 245712dbd63f6f94e8467250c1caedd9, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 245712dbd63f6f94e8467250c1caedd9, type: 3}
 --- !u!4 &530620108 stripped
@@ -6966,6 +7175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_MF
       objectReference: {fileID: 0}
+    - target: {fileID: 502325286767221237, guid: d9c8355275cc958409b1942b5a7602ab, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 987219069176677199, guid: d9c8355275cc958409b1942b5a7602ab, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -7022,6 +7235,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -7093,6 +7310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 208
@@ -7163,6 +7384,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -7296,6 +7521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 160
@@ -7367,6 +7596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -7423,6 +7656,10 @@ PrefabInstance:
     - target: {fileID: 1724726772310408, guid: 06416f0090eabed4d9c9ad1ede4ed373, type: 3}
       propertyPath: m_Name
       value: phone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1724726772310408, guid: 06416f0090eabed4d9c9ad1ede4ed373, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4192709959606334, guid: 06416f0090eabed4d9c9ad1ede4ed373, type: 3}
       propertyPath: m_RootOrder
@@ -7555,6 +7792,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 192
@@ -7616,6 +7857,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: chair
       objectReference: {fileID: 0}
+    - target: {fileID: 5987033754838845513, guid: a42ad6a4668ecfb44a1f036838e43f67, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6367500355248394995, guid: a42ad6a4668ecfb44a1f036838e43f67, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -7672,6 +7917,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -7853,6 +8102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Closet3
       objectReference: {fileID: 0}
+    - target: {fileID: 8460109943172831355, guid: c24cdd6fcf1f09248832426ea5388c7f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 9089259689788654273, guid: c24cdd6fcf1f09248832426ea5388c7f, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -8032,6 +8285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_chair_WL (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -8151,6 +8408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!1001 &651023766
@@ -8163,6 +8424,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -8225,6 +8490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 169
@@ -8285,6 +8554,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -8483,6 +8756,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 188
@@ -8553,6 +8830,10 @@ PrefabInstance:
     - target: {fileID: 1422868883321464, guid: 96b58236b5b44c848975ddea646f8ead, type: 3}
       propertyPath: m_Name
       value: BookOpen_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 1422868883321464, guid: 96b58236b5b44c848975ddea646f8ead, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4875696007443450, guid: 96b58236b5b44c848975ddea646f8ead, type: 3}
       propertyPath: m_RootOrder
@@ -8676,6 +8957,10 @@ PrefabInstance:
     - target: {fileID: 8757825814237500909, guid: d9e6213ffc5943b4db8396985aa3f894, type: 3}
       propertyPath: m_Name
       value: 3Seat3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8757825814237500909, guid: d9e6213ffc5943b4db8396985aa3f894, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9e6213ffc5943b4db8396985aa3f894, type: 3}
@@ -8807,6 +9092,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 179
@@ -8917,6 +9206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bed
       objectReference: {fileID: 0}
+    - target: {fileID: 721045016804959642, guid: e44e3122cb7192042b96792e967c285b, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e44e3122cb7192042b96792e967c285b, type: 3}
 --- !u!1 &711236409 stripped
@@ -8952,6 +9245,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -9127,6 +9424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9193,6 +9494,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -9366,6 +9671,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -9545,6 +9854,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_03
       objectReference: {fileID: 0}
+    - target: {fileID: 1095381659082510, guid: d4ea1b5a817a24748a674f21c65f6c1d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4768874184288814, guid: d4ea1b5a817a24748a674f21c65f6c1d, type: 3}
       propertyPath: m_RootOrder
       value: 76
@@ -9618,6 +9931,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -9694,6 +10011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -9763,6 +10084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -9819,6 +10144,10 @@ PrefabInstance:
     - target: {fileID: 1152768899851928, guid: f92a252e273fcb349b88813895ab0264, type: 3}
       propertyPath: m_Name
       value: pc
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152768899851928, guid: f92a252e273fcb349b88813895ab0264, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4025592166621246, guid: f92a252e273fcb349b88813895ab0264, type: 3}
       propertyPath: m_RootOrder
@@ -9889,6 +10218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 124
@@ -9958,6 +10291,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -10033,18 +10370,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7371053318674689440, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
   m_PrefabInstance: {fileID: 968308083}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &820710194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 820710193}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efd7a1886c1769049a496155e6e7522d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!54 &820710197
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10061,19 +10386,107 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!65 &820710198
-BoxCollider:
+--- !u!4 &820710202 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7854538729571088154, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+  m_PrefabInstance: {fileID: 968308083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &820710203
+AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820710193}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1.5054849, z: 1}
-  m_Center: {x: 0, y: 0.7447898, z: 0}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1001 &829796345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10264,6 +10677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: documentTray
       objectReference: {fileID: 0}
+    - target: {fileID: 1804089141208262, guid: 4404196afc4773241bfaf2f07b50abb6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4260573855788434, guid: 4404196afc4773241bfaf2f07b50abb6, type: 3}
       propertyPath: m_RootOrder
       value: 218
@@ -10332,6 +10749,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 47365cc78e5cfad41badc534e3d2b7e1, type: 3}
       propertyPath: m_Name
       value: Cheese (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 47365cc78e5cfad41badc534e3d2b7e1, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 47365cc78e5cfad41badc534e3d2b7e1, type: 3}
       propertyPath: m_RootOrder
@@ -10426,6 +10847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pc
       objectReference: {fileID: 0}
+    - target: {fileID: 1152768899851928, guid: f92a252e273fcb349b88813895ab0264, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4025592166621246, guid: f92a252e273fcb349b88813895ab0264, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -10495,6 +10920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 119
@@ -10556,6 +10985,10 @@ PrefabInstance:
     - target: {fileID: 125018, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
       propertyPath: m_Name
       value: Black Rook
+      objectReference: {fileID: 0}
+    - target: {fileID: 125018, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 411790, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
       propertyPath: m_RootOrder
@@ -10628,6 +11061,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -10804,6 +11241,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!4 &882280205 stripped
@@ -10831,6 +11272,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -10892,6 +11337,10 @@ PrefabInstance:
     - target: {fileID: 1943519805648896, guid: d8f82ca8968ebf54e883a955cf0e4156, type: 3}
       propertyPath: m_Name
       value: Book_67
+      objectReference: {fileID: 0}
+    - target: {fileID: 1943519805648896, guid: d8f82ca8968ebf54e883a955cf0e4156, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4603429630372672, guid: d8f82ca8968ebf54e883a955cf0e4156, type: 3}
       propertyPath: m_RootOrder
@@ -10967,6 +11416,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 131
@@ -11035,6 +11488,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 917849661}
+  - component: {fileID: 917849662}
   m_Layer: 0
   m_Name: LavaGround
   m_TagString: Untagged
@@ -11082,6 +11536,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &917849662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 917849660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &925358031 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
@@ -11209,6 +11675,10 @@ PrefabInstance:
     - target: {fileID: 1986181127464668, guid: 05e33778c495d8f4c85b9dd76d28aebc, type: 3}
       propertyPath: m_Name
       value: Books_20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986181127464668, guid: 05e33778c495d8f4c85b9dd76d28aebc, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4635688864557040, guid: 05e33778c495d8f4c85b9dd76d28aebc, type: 3}
       propertyPath: m_RootOrder
@@ -11388,7 +11858,8 @@ MonoBehaviour:
   Target: {fileID: 820710193}
   xmove: 0
   ymove: 0
-  distance: 3
+  distance: 10
+  x: 0
 --- !u!1001 &968308083
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11397,9 +11868,21 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+      propertyPath: cam
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+      propertyPath: runSound
+      value: 
+      objectReference: {fileID: 8300000, guid: e0144374c9a20f1418597bb6cc4b7729, type: 3}
+    - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+      propertyPath: walkSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d02b29bf8b785c6449921d337c8b1c82, type: 3}
     - target: {fileID: -7022134574332895645, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: teleportPoint
       value: 
@@ -11422,11 +11905,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7854538729571088154, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 169.2
+      value: 128.06
       objectReference: {fileID: 0}
     - target: {fileID: 7854538729571088154, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 22.7
+      value: 18.95
       objectReference: {fileID: 0}
     - target: {fileID: 7854538729571088154, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11458,6 +11941,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+--- !u!1 &968308084 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1593258937579357925, guid: 7dd75a7bc1dbc1d45a5624e1704ace94, type: 3}
+  m_PrefabInstance: {fileID: 968308083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &968308086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 968308084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d7c7ff8e42e4747b27de9632759661, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parent: {fileID: 0}
+--- !u!65 &968308089
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 968308084}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.2, y: 0.4, z: 1.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &969621441
 GameObject:
   m_ObjectHideFlags: 0
@@ -11581,6 +12095,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 183
@@ -11646,6 +12164,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -11761,6 +12283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RoundTable (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7690519952026649423, guid: 6f43b2566a8dcad4aa8e75125eeda38e, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f43b2566a8dcad4aa8e75125eeda38e, type: 3}
 --- !u!1001 &996518019
@@ -11773,6 +12299,10 @@ PrefabInstance:
     - target: {fileID: 1088082001208872, guid: 55938a3ad12a56d45af0710ba85a7f67, type: 3}
       propertyPath: m_Name
       value: smartPhone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1088082001208872, guid: 55938a3ad12a56d45af0710ba85a7f67, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4267263214667820, guid: 55938a3ad12a56d45af0710ba85a7f67, type: 3}
       propertyPath: m_RootOrder
@@ -11879,6 +12409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 1 b (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -11935,6 +12469,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -12002,6 +12540,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -12131,6 +12673,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fotel2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3458046819338091022, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
 --- !u!4 &1053693809 stripped
@@ -12148,6 +12694,10 @@ PrefabInstance:
     - target: {fileID: 138226, guid: edd4f3477fd5a8b4599bf6c0dac39f1d, type: 3}
       propertyPath: m_Name
       value: Black Pawn
+      objectReference: {fileID: 0}
+    - target: {fileID: 138226, guid: edd4f3477fd5a8b4599bf6c0dac39f1d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 484090, guid: edd4f3477fd5a8b4599bf6c0dac39f1d, type: 3}
       propertyPath: m_RootOrder
@@ -12318,6 +12868,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 167
@@ -12378,6 +12932,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -12506,6 +13064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ComPlaneV1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5525295603368428666, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
 --- !u!4 &1078403682 stripped
@@ -12523,6 +13085,10 @@ PrefabInstance:
     - target: {fileID: 1735897262709152, guid: e3dedf77e1e05f6419d2087dbdd51bfd, type: 3}
       propertyPath: m_Name
       value: Books_32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1735897262709152, guid: e3dedf77e1e05f6419d2087dbdd51bfd, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4629345567446558, guid: e3dedf77e1e05f6419d2087dbdd51bfd, type: 3}
       propertyPath: m_RootOrder
@@ -12645,6 +13211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!1001 &1102254292
@@ -12657,6 +13227,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -12714,6 +13288,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -12775,6 +13353,10 @@ PrefabInstance:
     - target: {fileID: 1895310422780346, guid: c8722be149fc9294bbbe96f6c293f6bc, type: 3}
       propertyPath: m_Name
       value: Books_10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1895310422780346, guid: c8722be149fc9294bbbe96f6c293f6bc, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4474935624179128, guid: c8722be149fc9294bbbe96f6c293f6bc, type: 3}
       propertyPath: m_RootOrder
@@ -12855,6 +13437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: monitor
       objectReference: {fileID: 0}
+    - target: {fileID: 1336190861656512, guid: 485ba0c36b8ffd8429f8d143445b0cc8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4710604104702134, guid: 485ba0c36b8ffd8429f8d143445b0cc8, type: 3}
       propertyPath: m_RootOrder
       value: 216
@@ -12923,6 +13509,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bd232805ec57aa245a81c2df3f69f66a, type: 3}
       propertyPath: m_Name
       value: Olive (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd232805ec57aa245a81c2df3f69f66a, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd232805ec57aa245a81c2df3f69f66a, type: 3}
       propertyPath: m_RootOrder
@@ -13027,6 +13617,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 3Seat2
       objectReference: {fileID: 0}
+    - target: {fileID: 1217277421368482119, guid: bd72486aa780d7c488fce4c5de88266f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 1994940639400543229, guid: bd72486aa780d7c488fce4c5de88266f, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -13083,6 +13677,10 @@ PrefabInstance:
     - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_Name
       value: Keyboard (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
@@ -13486,6 +14084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -13569,6 +14171,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: a2d308598386f4a0797f87a4b95b9dd1, type: 3}
       propertyPath: m_Name
       value: rock1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a2d308598386f4a0797f87a4b95b9dd1, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a2d308598386f4a0797f87a4b95b9dd1, type: 3}
       propertyPath: m_RootOrder
@@ -13675,6 +14281,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -14175,7 +14785,7 @@ GameObject:
   - component: {fileID: 1224252818}
   m_Layer: 0
   m_Name: BaseGround
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14230,6 +14840,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -14291,6 +14905,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
       propertyPath: m_Name
       value: Hotdog (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
       propertyPath: m_RootOrder
@@ -14385,6 +15003,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
       value: 62
@@ -14463,6 +15085,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 54b107e50acd7e24b96d7de887c68833, type: 3}
       propertyPath: m_Name
       value: Hamburger (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 54b107e50acd7e24b96d7de887c68833, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 54b107e50acd7e24b96d7de887c68833, type: 3}
       propertyPath: m_RootOrder
@@ -14557,6 +15183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Industrial Train Dr14
       objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -14613,6 +15243,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -14675,6 +15309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
       value: 80
@@ -14731,6 +15369,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -14854,6 +15496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ComPlaneV1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5525295603368428666, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
 --- !u!1001 &1282709350
@@ -14866,6 +15512,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -14938,6 +15588,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 127
@@ -15007,6 +15661,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -15181,6 +15839,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -15242,6 +15904,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -15318,6 +15984,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 211
@@ -15378,6 +16048,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -15440,6 +16114,10 @@ PrefabInstance:
     - target: {fileID: 1173945769684884, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
       propertyPath: m_Name
       value: Book_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1173945769684884, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4014317651347240, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
       propertyPath: m_RootOrder
@@ -15578,6 +16256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Board
       objectReference: {fileID: 0}
+    - target: {fileID: 166942, guid: 31270e9f38d5e7a448ae050b9633fce3, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 487252, guid: 31270e9f38d5e7a448ae050b9633fce3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -15645,6 +16327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 1 b (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -15701,6 +16387,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -15782,6 +16472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
       value: 82
@@ -15838,6 +16532,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -15899,6 +16597,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -16253,6 +16955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 172
@@ -16313,6 +17019,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -16483,6 +17193,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 159
@@ -16543,6 +17257,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -16673,6 +17391,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!1001 &1462183961
@@ -16685,6 +17407,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -16755,6 +17481,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -16987,6 +17717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Patio_table_unity (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -17106,6 +17840,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 205
@@ -17224,6 +17962,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 197
@@ -17284,6 +18026,10 @@ PrefabInstance:
     - target: {fileID: 1685128122304550, guid: 9dca1361477a9a548aa0e3af6d3a75a4, type: 3}
       propertyPath: m_Name
       value: black_laptop_OFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 1685128122304550, guid: 9dca1361477a9a548aa0e3af6d3a75a4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4478032458554116, guid: 9dca1361477a9a548aa0e3af6d3a75a4, type: 3}
       propertyPath: m_RootOrder
@@ -17347,6 +18093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 166
@@ -17407,6 +18157,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -17474,6 +18228,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 214
@@ -17539,6 +18297,10 @@ PrefabInstance:
     - target: {fileID: 1676658108551014, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
       propertyPath: m_Name
       value: projector
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676658108551014, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4693767298018312, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
       propertyPath: m_RootOrder
@@ -17609,6 +18371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Board
       objectReference: {fileID: 0}
+    - target: {fileID: 166942, guid: 31270e9f38d5e7a448ae050b9633fce3, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 487252, guid: 31270e9f38d5e7a448ae050b9633fce3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -17665,6 +18431,10 @@ PrefabInstance:
     - target: {fileID: 1649482374922732, guid: 79a5b937093a5864d91d9a3a836ff1d7, type: 3}
       propertyPath: m_Name
       value: printer
+      objectReference: {fileID: 0}
+    - target: {fileID: 1649482374922732, guid: 79a5b937093a5864d91d9a3a836ff1d7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4103267665437288, guid: 79a5b937093a5864d91d9a3a836ff1d7, type: 3}
       propertyPath: m_RootOrder
@@ -17778,6 +18548,10 @@ PrefabInstance:
     - target: {fileID: 717356515526673844, guid: 7be1856a1844e5a47b82d7cb61f184e5, type: 3}
       propertyPath: m_Name
       value: closet2
+      objectReference: {fileID: 0}
+    - target: {fileID: 717356515526673844, guid: 7be1856a1844e5a47b82d7cb61f184e5, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7be1856a1844e5a47b82d7cb61f184e5, type: 3}
@@ -17948,6 +18722,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fotel
       objectReference: {fileID: 0}
+    - target: {fileID: 1806843409170209191, guid: 0a94bd08074ccfd4e938cda201930e63, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a94bd08074ccfd4e938cda201930e63, type: 3}
 --- !u!1 &1572971208
@@ -18078,6 +18856,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 193
@@ -18138,6 +18920,10 @@ PrefabInstance:
     - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_Name
       value: Patio_chair_WL (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903825389767503075, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
       propertyPath: m_RootOrder
@@ -18207,7 +18993,7 @@ GameObject:
   - component: {fileID: 1594526983}
   m_Layer: 0
   m_Name: Chess
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18270,6 +19056,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 461f0170c82b53340a9812199b63bbd4, type: 3}
       propertyPath: m_Name
       value: Banana (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 461f0170c82b53340a9812199b63bbd4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 461f0170c82b53340a9812199b63bbd4, type: 3}
       propertyPath: m_RootOrder
@@ -18364,6 +19154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 155
@@ -18424,6 +19218,10 @@ PrefabInstance:
     - target: {fileID: 1726215544768280, guid: 1dd53bfeddd31c8438f1ccec6faf5f1d, type: 3}
       propertyPath: m_Name
       value: chair1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1726215544768280, guid: 1dd53bfeddd31c8438f1ccec6faf5f1d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4082142950641960, guid: 1dd53bfeddd31c8438f1ccec6faf5f1d, type: 3}
       propertyPath: m_RootOrder
@@ -18498,6 +19296,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -18607,6 +19409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 161
@@ -18667,6 +19473,10 @@ PrefabInstance:
     - target: {fileID: 1173945769684884, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
       propertyPath: m_Name
       value: Book_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1173945769684884, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4014317651347240, guid: 8eabee3a247b5fe41bfdcf4b301c41a6, type: 3}
       propertyPath: m_RootOrder
@@ -18741,6 +19551,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -18874,6 +19688,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_04
       objectReference: {fileID: 0}
+    - target: {fileID: 1152432382298514, guid: 273dfcdaa60d0b540b1012e22b97d74f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4067658542381872, guid: 273dfcdaa60d0b540b1012e22b97d74f, type: 3}
       propertyPath: m_RootOrder
       value: 77
@@ -18952,6 +19770,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -19131,6 +19953,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 157
@@ -19192,6 +20018,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
       value: 81
@@ -19248,6 +20078,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -19309,6 +20143,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -19622,6 +20460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 168
@@ -19805,6 +20647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 196
@@ -19870,6 +20716,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -20004,6 +20854,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 147
@@ -20078,6 +20932,10 @@ PrefabInstance:
     - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_Name
       value: Keyboard
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
@@ -20163,6 +21021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 170
@@ -20223,6 +21085,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -20295,6 +21161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 209
@@ -20361,6 +21231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Industrial Train Dr14 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1756464774094550, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4082935477391056, guid: 6e35b9c040b5a1248ab789b5a16c9af8, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -20417,6 +21291,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -20496,6 +21374,10 @@ PrefabInstance:
     - target: {fileID: 196802, guid: b6c7ad354ac474944ba26b2895a59759, type: 3}
       propertyPath: m_Name
       value: Black Knight
+      objectReference: {fileID: 0}
+    - target: {fileID: 196802, guid: b6c7ad354ac474944ba26b2895a59759, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 464390, guid: b6c7ad354ac474944ba26b2895a59759, type: 3}
       propertyPath: m_RootOrder
@@ -20666,6 +21548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 125
@@ -20735,6 +21621,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -21135,6 +22025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Keyboard (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -21208,6 +22102,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -21356,6 +22254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 178
@@ -21416,6 +22318,10 @@ PrefabInstance:
     - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_Name
       value: Keyboard (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410792319835124928, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4410792319835220192, guid: 081fe4da2a394ef4f8c7febb0897c5de, type: 3}
       propertyPath: m_RootOrder
@@ -21491,6 +22397,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 150
@@ -21560,6 +22470,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -21792,6 +22706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fotel2
       objectReference: {fileID: 0}
+    - target: {fileID: 3458046819338091022, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0602526b549f4e74c9107db59bde2a39, type: 3}
 --- !u!1001 &1960797096
@@ -21923,6 +22841,10 @@ PrefabInstance:
     - target: {fileID: 1676658108551014, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
       propertyPath: m_Name
       value: projector
+      objectReference: {fileID: 0}
+    - target: {fileID: 1676658108551014, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4693767298018312, guid: e46c83b5705b0a9429c8836bab32da4f, type: 3}
       propertyPath: m_RootOrder
@@ -22110,6 +23032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 174
@@ -22170,6 +23096,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -22410,6 +23340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 132
@@ -22484,6 +23418,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 1 b (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
@@ -22654,6 +23592,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a2d308598386f4a0797f87a4b95b9dd1, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a2d308598386f4a0797f87a4b95b9dd1, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -22785,6 +23727,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 130
@@ -22855,6 +23801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wood bridge stairs 1 b (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36d2636b6965d754d8bbf1705661c796, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -22911,6 +23861,10 @@ PrefabInstance:
     - target: {fileID: 196866, guid: a71fd906a2159e247ab4d632e46947db, type: 3}
       propertyPath: m_Name
       value: Black Bishop
+      objectReference: {fileID: 0}
+    - target: {fileID: 196866, guid: a71fd906a2159e247ab4d632e46947db, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: a71fd906a2159e247ab4d632e46947db, type: 3}
       propertyPath: m_RootOrder
@@ -23009,7 +23963,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.16509432, b: 0.16509432, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -23097,6 +24051,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DoubleSeat
       objectReference: {fileID: 0}
+    - target: {fileID: 920908881386834159, guid: 2c59b54db7aeb3d438ea1c0bf9694519, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c59b54db7aeb3d438ea1c0bf9694519, type: 3}
 --- !u!1001 &2029861459
@@ -23109,6 +24067,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_Name
       value: wood bridge stairs 2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
       propertyPath: m_RootOrder
@@ -23166,6 +24128,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -23289,6 +24255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MetalTable (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1970964019002176582, guid: 204da6aadc13e164eac745605815a273, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 204da6aadc13e164eac745605815a273, type: 3}
 --- !u!1001 &2037661072
@@ -23301,6 +24271,10 @@ PrefabInstance:
     - target: {fileID: 1975070268175658, guid: 7eeab333ed7416f498139b2846cbb10d, type: 3}
       propertyPath: m_Name
       value: Book_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975070268175658, guid: 7eeab333ed7416f498139b2846cbb10d, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4727377768261228, guid: 7eeab333ed7416f498139b2846cbb10d, type: 3}
       propertyPath: m_RootOrder
@@ -23385,6 +24359,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -23517,6 +24495,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ComPlaneV1
       objectReference: {fileID: 0}
+    - target: {fileID: 5525295603368428666, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6d4109da7a8fb14598e335baed19ec6, type: 3}
 --- !u!1001 &2047602013
@@ -23529,6 +24511,10 @@ PrefabInstance:
     - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_Name
       value: Patio_table_unity (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5925373890534095276, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 6444924313796141846, guid: ebfedbd5958bee14092128f8fe8aeaa7, type: 3}
       propertyPath: m_RootOrder
@@ -23586,6 +24572,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -23647,6 +24637,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -23718,6 +24712,10 @@ PrefabInstance:
     - target: {fileID: 130826, guid: 861e95a585868b643bf2e4a1d0ae63b7, type: 3}
       propertyPath: m_Name
       value: Black King
+      objectReference: {fileID: 0}
+    - target: {fileID: 130826, guid: 861e95a585868b643bf2e4a1d0ae63b7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 438022, guid: 861e95a585868b643bf2e4a1d0ae63b7, type: 3}
       propertyPath: m_RootOrder
@@ -23898,6 +24896,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 163
@@ -23963,6 +24965,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
@@ -24034,6 +25040,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Black Queen
       objectReference: {fileID: 0}
+    - target: {fileID: 184594, guid: 1f7a3b3d104b8e44cb39f5356ae1d0bb, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 435252, guid: 1f7a3b3d104b8e44cb39f5356ae1d0bb, type: 3}
       propertyPath: m_RootOrder
       value: 92
@@ -24095,6 +25105,10 @@ PrefabInstance:
     - target: {fileID: 8430773187405317715, guid: 80967ac7bb2c8104b8dd5b649046d79b, type: 3}
       propertyPath: m_Name
       value: Fotel4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8430773187405317715, guid: 80967ac7bb2c8104b8dd5b649046d79b, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 9100595239040507113, guid: 80967ac7bb2c8104b8dd5b649046d79b, type: 3}
       propertyPath: m_RootOrder
@@ -24265,6 +25279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 194
@@ -24326,6 +25344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock3 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
       value: 187
@@ -24376,16 +25398,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
---- !u!1 &2122218867 stripped
+--- !u!1 &2122218867
 GameObject:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 196804, guid: a915a3285fc7e49638568c2e6c584872, type: 3}
   m_PrefabInstance: {fileID: 1891469666}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &2122218870 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 494118, guid: a915a3285fc7e49638568c2e6c584872, type: 3}
-  m_PrefabInstance: {fileID: 1891469666}
-  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2122218872}
+  - component: {fileID: 2122218871}
+  m_Layer: 0
+  m_Name: 
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
 --- !u!64 &2122218871
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24400,6 +25429,21 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 6d4cfbc0686ed48c3bfca40a3f0a790d, type: 3}
+--- !u!4 &2122218872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122218867}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2128298483}
+  m_RootOrder: 104
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2125631406 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
@@ -24415,6 +25459,10 @@ PrefabInstance:
     - target: {fileID: 1221115511448040, guid: e1adc2d31fac236438c87e79d5c31628, type: 3}
       propertyPath: m_Name
       value: desk1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1221115511448040, guid: e1adc2d31fac236438c87e79d5c31628, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4679158801187576, guid: e1adc2d31fac236438c87e79d5c31628, type: 3}
       propertyPath: m_RootOrder
@@ -24485,7 +25533,7 @@ GameObject:
   - component: {fileID: 2128298483}
   m_Layer: 0
   m_Name: GameObject
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24606,7 +25654,7 @@ Transform:
   - {fileID: 143364415}
   - {fileID: 843525976}
   - {fileID: 1615623701}
-  - {fileID: 2122218870}
+  - {fileID: 2122218872}
   - {fileID: 2133791872}
   - {fileID: 999991321}
   - {fileID: 60796421}
@@ -24752,6 +25800,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_Name
       value: rock3 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
       propertyPath: m_RootOrder
