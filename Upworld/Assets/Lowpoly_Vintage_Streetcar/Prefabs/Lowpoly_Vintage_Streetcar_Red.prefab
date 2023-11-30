@@ -758,7 +758,7 @@ GameObject:
   - component: {fileID: 1530110108603521149}
   m_Layer: 0
   m_Name: Lowpoly_Vintage_Streetcar_Red
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

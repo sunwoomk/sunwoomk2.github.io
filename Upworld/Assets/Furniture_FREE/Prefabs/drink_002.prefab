@@ -59,6 +59,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: drink_002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd5082c0615524b4fac183d53d9768f7, type: 3}
 --- !u!1 &7057148730491291160 stripped

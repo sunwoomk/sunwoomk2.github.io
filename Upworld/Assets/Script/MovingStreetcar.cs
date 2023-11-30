@@ -19,7 +19,7 @@ public class MovingStreetcar : MonoBehaviour
             a = 1;
         }
 
-        else if (transform.position.y > 90)
+        else if (transform.position.y > 105)
         {
             a = -1;
         }
