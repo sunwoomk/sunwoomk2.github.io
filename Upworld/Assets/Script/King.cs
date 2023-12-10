@@ -8,7 +8,6 @@ public class King : MonoBehaviour
     {
         if(other.tag == "Player")
         {
-            //gameObject.SetActive(false);
             Destroy(gameObject);
         }
     }
