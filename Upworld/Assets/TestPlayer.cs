@@ -51,8 +51,23 @@ public class TestPlayer : MonoBehaviour
         Skill();
 
 
+    }
 
 
+    void OnCollisionEnter(Collision collision)
+    {
+        // 땅과의 충돌 여부 확인
+        foreach (ContactPoint contact in collision.contacts)
+        {
+            if (contact.otherCollider.CompareTag("Ground"))
+            {
+                isGround = true;
+                return; // 땅과 충돌이 한 번이라도 감지되면 루프 종료
+            }
+        }
+
+        // 땅과의 충돌이 없으면 isGround를 false로 설정
+        isGround = false;
     }
 
     void Move()
@@ -155,7 +170,6 @@ public class TestPlayer : MonoBehaviour
         if (other.gameObject.tag == "Ground")
         {
             isGround = true;
-            animator.SetBool("Jump", false);
         }
     }
 
@@ -164,7 +178,6 @@ public class TestPlayer : MonoBehaviour
         if (other.gameObject.tag == "Ground")
         {
             isGround = false;
-            animator.SetBool("Jump", true);
         }
     }*/
 
