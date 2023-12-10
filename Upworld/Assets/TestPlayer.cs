@@ -163,24 +163,8 @@ public class TestPlayer : MonoBehaviour
 
     }
 
+
     
-
-    /*private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.tag == "Ground")
-        {
-            isGround = true;
-        }
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.gameObject.tag == "Ground")
-        {
-            isGround = false;
-        }
-    }*/
-
     private void Skill()
     {
 
