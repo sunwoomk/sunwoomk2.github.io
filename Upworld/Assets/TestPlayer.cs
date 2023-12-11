@@ -184,4 +184,13 @@ public class TestPlayer : MonoBehaviour
             useSkill = true;
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Lava")
+        {
+            Destroy(gameObject);
+            GameOver.instance.Show();
+        }
+    }
 }

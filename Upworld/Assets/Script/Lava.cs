@@ -19,6 +19,6 @@ public class Lava : MonoBehaviour
 
     void Move()
     {
-        transform.Translate(Vector3.up * 1.0f * Time.deltaTime * 2);
+        transform.Translate(Vector3.up * 1.0f * Time.deltaTime);
     }
 }
