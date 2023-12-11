@@ -259,9 +259,10 @@ GameObject:
   - component: {fileID: 16472502}
   - component: {fileID: 16472501}
   - component: {fileID: 16472500}
+  - component: {fileID: 16472505}
   m_Layer: 0
   m_Name: Lava
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -358,6 +359,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &16472505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 16472499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &19098720 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 439312, guid: cd05c23b470229c44a8d53d6e86225f6, type: 3}
@@ -571,9 +584,10 @@ GameObject:
   - component: {fileID: 29927585}
   - component: {fileID: 29927584}
   - component: {fileID: 29927583}
+  - component: {fileID: 29927588}
   m_Layer: 0
   m_Name: Lava (20)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -670,6 +684,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &29927588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 29927582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &41944970 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1322055175328285469, guid: 0a94bd08074ccfd4e938cda201930e63, type: 3}
@@ -1204,9 +1230,10 @@ GameObject:
   - component: {fileID: 70595853}
   - component: {fileID: 70595852}
   - component: {fileID: 70595851}
+  - component: {fileID: 70595856}
   m_Layer: 0
   m_Name: Lava (5)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1303,6 +1330,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &70595856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 70595850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &70859512 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4005582913517524, guid: 42b4aeb41b0d51c4b8ee872cf9776209, type: 3}
@@ -2581,9 +2620,10 @@ GameObject:
   - component: {fileID: 181554181}
   - component: {fileID: 181554180}
   - component: {fileID: 181554179}
+  - component: {fileID: 181554184}
   m_Layer: 0
   m_Name: Lava (9)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2680,6 +2720,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &181554184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 181554178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &182124345
 GameObject:
   m_ObjectHideFlags: 0
@@ -4332,9 +4384,10 @@ GameObject:
   - component: {fileID: 284928244}
   - component: {fileID: 284928243}
   - component: {fileID: 284928242}
+  - component: {fileID: 284928247}
   m_Layer: 0
   m_Name: Lava (14)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4431,6 +4484,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &291310323
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4509,6 +4563,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4478032458554116, guid: 9dca1361477a9a548aa0e3af6d3a75a4, type: 3}
   m_PrefabInstance: {fileID: 291310323}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &284928247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284928241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &295374893
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4628,9 +4696,10 @@ GameObject:
   - component: {fileID: 304658919}
   - component: {fileID: 304658918}
   - component: {fileID: 304658917}
+  - component: {fileID: 304658922}
   m_Layer: 0
   m_Name: Lava (12)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4727,6 +4796,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &305035230
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4801,6 +4871,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
   m_PrefabInstance: {fileID: 1694877575}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &304658922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304658916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &313174844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6759,9 +6843,10 @@ GameObject:
   - component: {fileID: 471849178}
   - component: {fileID: 471849177}
   - component: {fileID: 471849176}
+  - component: {fileID: 471849181}
   m_Layer: 0
   m_Name: Lava (6)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6858,6 +6943,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &473280904
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6919,6 +7005,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d2b4c92a59cf1a441bf008ca26395efa, type: 3}
+=======
+--- !u!114 &471849181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471849175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &476457165
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7260,9 +7360,10 @@ GameObject:
   - component: {fileID: 495470191}
   - component: {fileID: 495470190}
   - component: {fileID: 495470189}
+  - component: {fileID: 495470194}
   m_Layer: 0
   m_Name: Lava (3)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7359,6 +7460,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &495470194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 495470188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &503721154
 GameObject:
   m_ObjectHideFlags: 0
@@ -10883,9 +10996,10 @@ GameObject:
   - component: {fileID: 734262345}
   - component: {fileID: 734262344}
   - component: {fileID: 734262343}
+  - component: {fileID: 734262348}
   m_Layer: 0
   m_Name: Lava (11)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10982,11 +11096,26 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &736112484 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
   m_PrefabInstance: {fileID: 2055839541}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &734262348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734262342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &738967070
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12147,6 +12276,7 @@ AudioSource:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820710193}
   m_Enabled: 1
+<<<<<<< Updated upstream
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -12235,6 +12365,45 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+=======
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1.5054849, z: 1}
+  m_Center: {x: 0, y: 0.7447898, z: 0}
+--- !u!143 &820710203
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820710193}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 0.2
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &820710204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820710193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c43028c3d7bddd8468841dc5f8f05ab1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Camera: {fileID: 963194225}
+  SelectPlayer: {fileID: 820710203}
+  Speed: 10
+  JumpForce: 5
+>>>>>>> Stashed changes
 --- !u!1001 &829796345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12310,9 +12479,10 @@ GameObject:
   - component: {fileID: 839427664}
   - component: {fileID: 839427663}
   - component: {fileID: 839427662}
+  - component: {fileID: 839427667}
   m_Layer: 0
   m_Name: Lava (21)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12409,6 +12579,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &839637734 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8195712789765140202, guid: 55308027ed92260409cdea82e406ce1f, type: 3}
@@ -12488,6 +12659,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4005582913517524, guid: 42b4aeb41b0d51c4b8ee872cf9776209, type: 3}
   m_PrefabInstance: {fileID: 840734046}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &839427667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839427661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!4 &841906985 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 20987309ee214664180a77414b9ca8de, type: 3}
@@ -13675,9 +13860,10 @@ GameObject:
   - component: {fileID: 929848786}
   - component: {fileID: 929848785}
   - component: {fileID: 929848784}
+  - component: {fileID: 929848789}
   m_Layer: 0
   m_Name: Lava (23)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13774,6 +13960,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &929848789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 929848783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &930002017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13967,6 +14165,7 @@ MonoBehaviour:
   Target: {fileID: 820710193}
   xmove: 0
   ymove: 0
+<<<<<<< Updated upstream
   distance: 10
   x: 0
 --- !u!1001 &968299768
@@ -14034,6 +14233,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fa5038357e0ef04d9d96a0a86bc26b5, type: 3}
+=======
+  distance: 6
+>>>>>>> Stashed changes
 --- !u!1001 &968308083
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15304,9 +15506,10 @@ GameObject:
   - component: {fileID: 1060901778}
   - component: {fileID: 1060901777}
   - component: {fileID: 1060901776}
+  - component: {fileID: 1060901781}
   m_Layer: 0
   m_Name: Lava (17)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15403,6 +15606,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &1061045016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15616,6 +15820,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4108272178946847659, guid: b93d775b381899840a4eb3175c30acb4, type: 3}
   m_PrefabInstance: {fileID: 871938436}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &1060901781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060901775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!4 &1073866772 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5712309910781458009, guid: 74185b4d791e261439d26a1d147d61c4, type: 3}
@@ -17312,9 +17530,10 @@ GameObject:
   - component: {fileID: 1215430149}
   - component: {fileID: 1215430148}
   - component: {fileID: 1215430147}
+  - component: {fileID: 1215430152}
   m_Layer: 0
   m_Name: Lava (18)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17411,11 +17630,26 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &1216348880 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1157871478893653756, guid: 204da6aadc13e164eac745605815a273, type: 3}
   m_PrefabInstance: {fileID: 2035169042}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &1215430152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1215430146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1 &1216529842
 GameObject:
   m_ObjectHideFlags: 0
@@ -17429,9 +17663,10 @@ GameObject:
   - component: {fileID: 1216529845}
   - component: {fileID: 1216529844}
   - component: {fileID: 1216529843}
+  - component: {fileID: 1216529848}
   m_Layer: 0
   m_Name: Lava (4)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17528,6 +17763,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1216529848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216529842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1216712382
 GameObject:
   m_ObjectHideFlags: 0
@@ -18798,9 +19045,10 @@ GameObject:
   - component: {fileID: 1325687053}
   - component: {fileID: 1325687052}
   - component: {fileID: 1325687051}
+  - component: {fileID: 1325687056}
   m_Layer: 0
   m_Name: Lava (13)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18897,6 +19145,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1325687056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325687050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1327188565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19807,9 +20067,10 @@ GameObject:
   - component: {fileID: 1375935478}
   - component: {fileID: 1375935477}
   - component: {fileID: 1375935476}
+  - component: {fileID: 1375935481}
   m_Layer: 0
   m_Name: Lava (1)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19906,6 +20167,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &1377041075 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
@@ -19976,6 +20238,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2588b25e4e546fa429c471e9af7b9d8a, type: 3}
+=======
+--- !u!114 &1375935481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375935475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1 &1390855338
 GameObject:
   m_ObjectHideFlags: 0
@@ -20237,9 +20513,10 @@ GameObject:
   - component: {fileID: 1411321680}
   - component: {fileID: 1411321679}
   - component: {fileID: 1411321678}
+  - component: {fileID: 1411321683}
   m_Layer: 0
   m_Name: Lava (19)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20336,6 +20613,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &1413164112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20401,6 +20679,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
+=======
+--- !u!114 &1411321683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411321677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &1414202463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20925,9 +21217,10 @@ GameObject:
   - component: {fileID: 1463668221}
   - component: {fileID: 1463668220}
   - component: {fileID: 1463668219}
+  - component: {fileID: 1463668224}
   m_Layer: 0
   m_Name: Lava (15)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21024,6 +21317,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1463668224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463668218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1466525837
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22165,9 +22470,10 @@ GameObject:
   - component: {fileID: 1566716712}
   - component: {fileID: 1566716711}
   - component: {fileID: 1566716710}
+  - component: {fileID: 1566716715}
   m_Layer: 0
   m_Name: Lava (8)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22264,6 +22570,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1566716715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566716709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1569596157
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24251,9 +24569,10 @@ GameObject:
   - component: {fileID: 1722973682}
   - component: {fileID: 1722973681}
   - component: {fileID: 1722973680}
+  - component: {fileID: 1722973685}
   m_Layer: 0
   m_Name: Lava (10)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24350,6 +24669,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1722973685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1722973679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1736714367 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789874730325638, guid: 1dfa42bb9327d20498f83b251b090304, type: 3}
@@ -24586,9 +24917,10 @@ GameObject:
   - component: {fileID: 1773640974}
   - component: {fileID: 1773640973}
   - component: {fileID: 1773640972}
+  - component: {fileID: 1773640977}
   m_Layer: 0
   m_Name: Lava (7)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24685,6 +25017,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &1779876317 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 439312, guid: cd05c23b470229c44a8d53d6e86225f6, type: 3}
@@ -24767,6 +25100,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87ba70ffeb5cf0042b9c74cf165df40c, type: 3}
+=======
+--- !u!114 &1773640977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773640971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!4 &1788079952 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 411790, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
@@ -32846,9 +33193,10 @@ GameObject:
   - component: {fileID: 1986573164}
   - component: {fileID: 1986573163}
   - component: {fileID: 1986573162}
+  - component: {fileID: 1986573167}
   m_Layer: 0
   m_Name: Lava (24)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32945,6 +33293,18 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1986573167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986573161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1986633006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34610,9 +34970,10 @@ GameObject:
   - component: {fileID: 2079641777}
   - component: {fileID: 2079641776}
   - component: {fileID: 2079641775}
+  - component: {fileID: 2079641780}
   m_Layer: 0
   m_Name: Lava (16)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34709,6 +35070,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &2083446444 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
@@ -34863,6 +35225,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
   m_PrefabInstance: {fileID: 2092805706}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &2079641780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079641774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &2098356437
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35037,9 +35413,10 @@ GameObject:
   - component: {fileID: 2113675720}
   - component: {fileID: 2113675719}
   - component: {fileID: 2113675718}
+  - component: {fileID: 2113675723}
   m_Layer: 0
   m_Name: Lava (22)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35136,6 +35513,7 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &2115548417
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35203,10 +35581,15 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
 --- !u!1 &2117963357
 GameObject:
+=======
+--- !u!114 &2113675723
+MonoBehaviour:
+>>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2117963359}
@@ -35335,6 +35718,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
   m_PrefabInstance: {fileID: 233814159}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_GameObject: {fileID: 2113675717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1001 &2126198328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35799,9 +36190,10 @@ GameObject:
   - component: {fileID: 2142497901}
   - component: {fileID: 2142497900}
   - component: {fileID: 2142497899}
+  - component: {fileID: 2142497904}
   m_Layer: 0
   m_Name: Lava (2)
-  m_TagString: Ground
+  m_TagString: Lava
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35898,8 +36290,23 @@ Transform:
   m_Father: {fileID: 917849661}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!4 &2144805864 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 24be8e1643b8a474fbb57fcda8a1c454, type: 3}
   m_PrefabInstance: {fileID: 1413164112}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!114 &2142497904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142497898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb68e68e18d92a458f7100178514ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
